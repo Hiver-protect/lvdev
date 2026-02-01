@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lvdev",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "22a3894e-6ef3-4167-aab7-c82b63e07582",
+			"database_name": "LvScript"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
